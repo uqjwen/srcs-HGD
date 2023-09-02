@@ -1,0 +1,4 @@
+Musical_Instruments      	: 0.604
+Grocery_and_Gourmet_Food 	: 0.701
+Video_Games              	: 0.744
+Sports_and_Outdoors      	: 0.622

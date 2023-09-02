@@ -1,0 +1,5 @@
+hislen                   	5     	10    	15    	20    	25    	30    
+Musical_Instruments      	0.627 	0.631 	0.610 	0.613 	0.613 	0.613 
+Grocery_and_Gourmet_Food 	0.741 	0.720 	0.712 	0.704 	0.695 	0.702 
+Video_Games              	0.780 	0.763 	0.755 	0.749 	0.741 	0.740 
+Sports_and_Outdoors      	0.653 	0.638 	0.622 	0.632 	0.618 	0.623 

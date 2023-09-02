@@ -1,0 +1,5 @@
+scalar                   	0.0   	2.0   	4.0   	6.0   	8.0   	10.0  
+Musical_Instruments      	0.610 	0.601 	0.619 	0.620 	0.619 	0.617 
+Grocery_and_Gourmet_Food 	0.711 	0.704 	0.702 	0.703 	0.747 	0.731 
+Video_Games              	0.759 	0.750 	0.749 	0.750 	0.752 	0.746 
+Sports_and_Outdoors      	0.618 	0.622 	0.618 	0.624 	0.626 	0.637 
